@@ -1,0 +1,93 @@
+section,field,value
+identification,company_name,ICICI Bank Limited
+identification,ticker,ICICIBANK
+identification,exchange,NSE/BSE
+identification,sector,Banking & Financial Services
+identification,cap_type,Large Cap
+identification,cmp,1420
+identification,target_price,1580
+identification,rating,BUY
+identification,upside_pct,11.3
+identification,report_date,15-Jul-2025
+identification,analyst_name,Research Team
+metrics,market_cap,998450
+metrics,week_52_high,1500
+metrics,week_52_low,950
+metrics,enterprise_value,995000
+metrics,outstanding_shares,703.2
+metrics,free_float,49.5
+metrics,dividend_yield,0.8
+metrics,beta,1.1
+metrics,face_value,2
+metrics,avg_volume_6m,4.2
+annual,FY22A_sales,108888
+annual,FY22A_sales_growth,13.2
+annual,FY22A_ebitda,0
+annual,FY22A_ebitda_margin,0
+annual,FY22A_pat,23363
+annual,FY22A_pat_growth,19.5
+annual,FY22A_eps,33.5
+annual,FY22A_pe,18.2
+annual,FY22A_roe,15.8
+annual,FY23A_sales,125845
+annual,FY23A_sales_growth,15.6
+annual,FY23A_pat,31223
+annual,FY23A_pat_growth,33.6
+annual,FY23A_eps,44.8
+annual,FY23A_pe,16.5
+annual,FY23A_roe,17.2
+annual,FY24A_sales,148086
+annual,FY24A_sales_growth,17.7
+annual,FY24A_pat,40888
+annual,FY24A_pat_growth,31.3
+annual,FY24A_eps,58.2
+annual,FY24A_pe,15.8
+annual,FY24A_roe,18.5
+annual,FY25A_sales,172340
+annual,FY25A_sales_growth,16.4
+annual,FY25A_pat,47234
+annual,FY25A_pat_growth,15.5
+annual,FY25A_eps,67.1
+annual,FY25A_pe,14.9
+annual,FY25A_roe,18.9
+annual,FY26E_sales,198500
+annual,FY26E_sales_growth,15.2
+annual,FY26E_pat,54800
+annual,FY26E_pat_growth,16.0
+annual,FY26E_eps,77.9
+annual,FY26E_pe,18.2
+annual,FY26E_roe,19.2
+quarterly,Q1FY26_sales,43200
+quarterly,Q1FY25_sales,38900
+quarterly,Q1FY26_ebitda,0
+quarterly,Q1FY26_pat,11800
+quarterly,Q1FY25_pat,10200
+quarterly,Q4FY25_pat,11500
+quarterly,Q1FY26_eps,16.8
+quarterly,Q1FY25_eps,14.5
+shareholding,Promoters_Q3FY25,34.8
+shareholding,Promoters_Q4FY25,34.8
+shareholding,Promoters_Q1FY26,34.8
+shareholding,FIIs_Q3FY25,46.2
+shareholding,FIIs_Q4FY25,45.8
+shareholding,FIIs_Q1FY26,45.1
+shareholding,MFs_Q3FY25,12.5
+shareholding,MFs_Q4FY25,13.1
+shareholding,MFs_Q1FY26,13.8
+shareholding,Public_Q3FY25,4.2
+shareholding,Public_Q4FY25,4.5
+shareholding,Public_Q1FY26,4.8
+price_perf,stock_3m,8.5
+price_perf,stock_6m,15.2
+price_perf,stock_1y,22.4
+price_perf,sensex_3m,3.0
+price_perf,sensex_6m,7.9
+price_perf,sensex_1y,2.5
+narrative,highlight_1,Strong loan growth of 15.2% YoY driven by retail and SME segments.
+narrative,highlight_2,Net NPA ratio improved to 0.42% — among the best in private banking.
+narrative,highlight_3,CASA ratio maintained at 45.8% supporting low-cost deposit franchise.
+narrative,highlight_4,Digital banking platform iMobile Pay crossed 20 crore registered users.
+narrative,highlight_5,ROE expanded to 18.9% in FY25 with consistent profitability improvement.
+narrative,risk_1,Rising competition in retail lending from fintech and NBFC players.
+narrative,risk_2,Potential asset quality stress in unsecured personal loan portfolio.
+narrative,risk_3,Regulatory changes on priority sector lending norms could impact margins.
