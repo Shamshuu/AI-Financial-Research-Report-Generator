@@ -1,0 +1,69 @@
+ETERNAL LIMITED (formerly Zomato Limited)
+Ticker: ETERNAL | Exchange: NSE/BSE | Sector: Food Delivery & Quick Commerce
+Cap Type: Large Cap
+
+Market Data (as of July 2025):
+- CMP: Rs. 306
+- Target Price: Rs. 337 (HOLD rating, 12-month horizon)
+- Upside: 10.1%
+- Market Cap: Rs. 2,95,735 cr
+- 52 Week High/Low: Rs. 314 / Rs. 190
+- Enterprise Value: Rs. 2,94,166 cr
+- Outstanding Shares: 965.0 cr
+- Free Float: 71.9%
+- Beta: 1.0
+- Face Value: Rs. 1.0
+- 6M Avg Volume: 6.1 cr shares/day
+- Dividend Yield: -
+
+Shareholding Pattern (%):
+Category          Q3FY25  Q4FY25  Q1FY26
+Promoters         0.0     0.0     0.0
+FIIs              47.3    44.4    42.3
+MFs/Institutions  20.5    23.6    26.6
+Public            8.0     8.5     7.6
+Others            24.1    23.6    23.5
+
+Price Performance vs Sensex:
+                3M      6M      1Y
+Stock Return    32.1%   44.8%   39.7%
+Sensex          3.0%    7.9%    2.5%
+
+Annual Financials (Consolidated, Rs. cr):
+Year    Sales   Growth%  EBITDA  EBITDA%  PAT     PAT Gr%  EPS   P/E    ROE%   D/E
+FY23A   7,079   68.9    -1,210  -17.1    -971    -35.5    -1.2  N/A    -5.0   0.0
+FY24A   12,114  71.1    42      0.3      351     -136.1   0.4   N/A    1.7    0.0
+FY25A   20,243  67.1    637     3.1      527     50.1     0.6   335.8  1.7    0.1
+FY26E   35,020  73.0    1,248   3.6      927     75.9     1.0   325.2  3.0    0.1
+FY27E   54,632  56.0    3,575   6.5      2,643   185.2    2.7   114.1  7.8    0.1
+
+Quarterly Financials Q1FY26 vs Q1FY25 vs Q4FY25 (Rs. cr):
+Sales: 7,167 | 4,206 | YoY +70.4% | Q4FY25: 5,833 | QoQ +22.9%
+EBITDA: 115 | 177 | YoY -35.0% | Q4FY25: 72 | QoQ +59.7%
+EBITDA Margin: 1.6% | 4.2% | -260bps YoY | Q4FY25: 1.2% | +40bps QoQ
+Reported PAT: 25 | 253 | YoY -90.1% | Q4FY25: 39 | QoQ -35.9%
+Adj. EPS: Rs. 0.03 | Rs. 0.30 | YoY -90.1%
+
+Estimate Changes (Rs. cr):
+Revenue: Old FY26E 30,738 / FY27E 41,743 → New FY26E 35,020 / FY27E 54,632 (+13.9% / +30.9%)
+EBITDA: Old FY26E 1,686 / FY27E 3,959 → New FY26E 1,248 / FY27E 3,575 (-25.9% / -9.7%)
+Adj. PAT: Old FY26E 1,460 / FY27E 3,254 → New FY26E 927 / FY27E 2,643 (-36.5% / -18.8%)
+
+Key Highlights:
+- NOV growth in food delivery edged lower to 13% YoY in Q1FY26 but expected to exceed 15% for FY26.
+- Blinkit witnessed 127% YoY growth in NOV, driven by 123% increase in monthly transacting customers.
+- Certain cities achieved 2.5%+ adjusted EBITDA margin in quick commerce.
+- Blinkit added 243 stores in Q1FY26 to reach 1,544 stores; target 2,000 by December 2025.
+- Transition from marketplace to inventory ownership expected to deliver ~1pp margin expansion.
+
+Key Risks:
+- Competition from Swiggy Instamart, Zepto, BigBasket in quick commerce.
+- Regulatory changes on gig workers or food delivery pricing.
+- Heavy investment in store expansion may weigh on near-term profitability.
+- FII shareholding decline from 47.3% to 42.3% over 3 quarters.
+
+Recommendation History:
+11-Aug-22 BUY Rs. 69 | 17-Feb-23 BUY Rs. 60 | 08-Aug-23 BUY Rs. 114 | 13-Feb-24 BUY Rs. 174
+16-May-24 BUY Rs. 220 | 28-Oct-24 BUY Rs. 284 | 30-Jan-25 BUY Rs. 254 | 29-Jul-25 HOLD Rs. 337
+
+Analyst: Gopika Gopan | Report Date: 29-Jul-2025
